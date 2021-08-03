@@ -12,5 +12,14 @@ LU3: Azure Sphere 3 parts, Two approaches to AI, Azure DevOps Services,
 	What is a ToolChain, What is Azure DevTest Labs, Categories of management tools,
 	Two approaches to Infrastructure as Code,Tools to manage the Cloud Environment,
 	Three Azure monitoring offerings, Azure Advisor Recommendation Categories, Azure Health Service event types
-	
- 
+LU4: What is a Security Posture, Security Center Can?, What is the Resource Security Hygiene Section? 
+	What is a Secure Score? Secure Score Helps To? Security Center Defence, SIEM? Azure Sentinel allows?
+	What can Azure Key Vault Do? Benefits of Azure Key Vaults? What is Azure Dedicated Host, Layers Of Defence In Depth(PIPNCAD)?
+	Security Posture Collectively (CIA)? Azure Firewall Features? DDOS Protection Tiers? DDOS Standard Tier protects against?
+LU5: Azure AD vs AD, Who uses AD? What services does Azure AD provide? How to connect AD to Azure AD? Conditional Access Collects?
+	Conditional Access is Useful when? How is RBAC applied? Scope includes? How is RBAC Enforced? Resource Lock? Levels of Resource Locks?
+	What is Azure BluePrint? What is a resource tag?, Why is Metadata useful? Steps involved in implementing an Azure Policy? Azure Policy Initiative?
+	Implementing a BluePrint steps? BluePrint artefact? Cloud Adoption Framework? Cloud Adoption Framework steps?(DMRAG), 
+	Three aspects to consider when creating and managing subscriptions? What is a control? Microsoft Privacy Statement, Trust Center, 
+	Azure Compliance Document
+LU6: What is the TCO calc? How does the TCO work? What factors affects cost? What is an SLA? What is a service credit? What is the Service LifeCycle?
