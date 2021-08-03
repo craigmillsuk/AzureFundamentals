@@ -1,3 +1,16 @@
 https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/
 
 https://docs.microsoft.com/en-us/learn/certifications/exams/az-204
+
+Additional Re-Caps:
+LU1: Iaas, Paas, Saas
+LU2: Prominent Azure Compute Services, Serverless computing benefits, 
+	Key feature of Azure Virtual Desktop, Azure Virtual Networking Capabilities,
+	Policy-Based vs Route-Based VPN, Required Azure resources to deploy a VPN gateway,
+	Features and Benefits of ExpressRoute, ExpressRoute connectivity models
+LU3: Azure Sphere 3 parts, Two approaches to AI, Azure DevOps Services, 
+	What is a ToolChain, What is Azure DevTest Labs, Categories of management tools,
+	Two approaches to Infrastructure as Code,Tools to manage the Cloud Environment,
+	Three Azure monitoring offerings, Azure Advisor Recommendation Categories, Azure Health Service event types
+	
+ 
